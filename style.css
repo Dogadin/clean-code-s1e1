@@ -45,7 +45,7 @@ body {
 #incomplete-tasks,
 #completed-tasks{
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .style-none,
@@ -60,7 +60,7 @@ body {
 
 .button {
   background: none;
-  border: 0px;
+  border: 0;
   color: #888;
   font-size: 15px;
   width: 60px;
@@ -110,10 +110,6 @@ body {
 #new-task {
   width: 318px;
 }
-
-/*p > button:hover {*/
-/*  color: #0FC57C;*/
-/*}*/
 
 /* Task list */
 .list-item {
